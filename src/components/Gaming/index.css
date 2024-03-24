@@ -1,0 +1,13 @@
+.gaming-head {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.game-icon {
+  margin-right: 10px;
+}
+.game-card-cont {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}

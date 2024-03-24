@@ -1,0 +1,36 @@
+.nav-item {
+  width: 25%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+}
+ul {
+  list-style: none;
+}
+.nav-btn {
+  display: flex;
+  align-items: center;
+}
+.home-icon {
+  margin-right: 10px;
+}
+.link-item {
+  text-decoration: none;
+  color: black;
+}
+.icons {
+  margin-right: 10px;
+}
+.social-cont {
+  display: flex;
+  align-items: center;
+}
+.social-item {
+  width: 30px;
+  margin-right: 10px;
+}
+h1 {
+  font-size: 16px;
+}

@@ -1,0 +1,16 @@
+.game-link-cont {
+  width: 20%;
+  color: black;
+  text-decoration: none;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  border: 0.3px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+.game-card-cont {
+    width: 100%;
+}
+.game-img {
+  width: 100%;
+}

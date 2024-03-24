@@ -1,0 +1,12 @@
+.trending-item-cont {
+  margin-bottom: 10px;
+  display: flex;
+}
+.link-style {
+  color: black;
+  text-decoration: none;
+}
+.thumbnail-img-trending {
+  width: 50%;
+  margin-right: 10px;
+}

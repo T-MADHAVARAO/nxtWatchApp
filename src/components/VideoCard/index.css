@@ -1,0 +1,26 @@
+.video-item {
+  width: 30%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 6px;
+  text-decoration: none;
+  color: black;
+}
+.videoItem-cont {
+  display: flex;
+  flex-direction: column;
+}
+.thumbnail-img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.video-details {
+  display: flex;
+}
+.profile-img {
+  width: 30px;
+  height: 30px;
+}
+.video-data {
+  text-align: start;
+}

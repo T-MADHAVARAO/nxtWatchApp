@@ -1,0 +1,17 @@
+.bg {
+  height: 100vh;
+}
+.trending-cont {
+  padding: 20px;
+}
+.trending-icon {
+  color: red;
+  margin-right: 20px;
+}
+.trending-head {
+  display: flex;
+  align-items: center;
+}
+.trending-videos-cont {
+  overflow: auto;
+}

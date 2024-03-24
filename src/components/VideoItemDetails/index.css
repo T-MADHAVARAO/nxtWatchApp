@@ -1,0 +1,40 @@
+.video-player {
+  width: 100%;
+}
+.videoDetails-cont {
+  width: 100%;
+  padding: 20px;
+}
+.rate-cont {
+  display: flex;
+}
+.video-response-cont {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.like-item {
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+hr {
+  border-width: 0.5px;
+  color: black;
+}
+.video-description {
+  display: flex;
+}
+.profile {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.loader-container-dark {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
